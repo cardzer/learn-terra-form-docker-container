@@ -1,4 +1,4 @@
-# learn-terra-form-docker-container
+# terraform-docker-containers
 
 This project is using terraform in order to create a nginx docker container.
 
